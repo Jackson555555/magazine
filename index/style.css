@@ -1,0 +1,21 @@
+h1 {
+	text-align: center;
+	color: white;
+	background: teal;
+	padding: 5px;
+
+#colum1 {
+}
+#colum1 {
+	width: 48%;
+	float: left;
+}
+#colum2 {
+	width: 48%;
+	float: right;
+}
+#colum2 img {
+ box-shadow: 4px 4px 4px gray;
+ transform: rotate(10deg) ;
+
+}
